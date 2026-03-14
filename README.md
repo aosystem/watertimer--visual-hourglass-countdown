@@ -6,6 +6,9 @@
 [![App Store](https://img.shields.io/badge/App_Store-Download-black?logo=apple&logoColor=white)](https://apps.apple.com/jp/app/id6759228743)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 📺 Demo Video
+[![Watch the video](https://img.youtube.com/vi/qH1Re_-3L9M/0.jpg)](https://www.youtube.com/watch?v=qH1Re_-3L9M)
+
 ## 🌟 Key Features
 - **Intuitive Visual Progress:** Watch the water level rise from a faucet to represent elapsed time and percentage markers.
 - **Dynamic Themes:** Highly customizable theme colors and full **Dark Mode** support to match your mood or environment.
